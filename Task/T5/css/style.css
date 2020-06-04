@@ -1,0 +1,109 @@
+
+#header
+{
+	padding: none;
+	margin: none;
+	float: top;
+	background: #2c3e50;
+	height: 330px;
+}
+#header h3
+{
+	text-transform: capitalize;
+	text-align: center;
+	padding-top: 80px;
+	font-style: italic;
+	font-size: 30px;
+	color: white;
+	margin: 0px;
+
+}
+#btn_submit
+{
+	text-align: center;
+	margin-left: 600px;
+	background: #1c2833;
+	height: 35px;
+	width: 100px;
+	color: white;
+	border-style: white solid;
+	text-transform: capitalize;
+}
+#p1
+{
+	font-weight: bold;
+	margin: 15px;
+	height: 20px;
+	border-style: solid;
+	border-color: white;
+	padding: 30px;
+	text-align: center;
+	text-transform: uppercase;
+	width: 400px;
+	margin-left: 400px;
+	font-size: 30px;
+}
+#i1
+{
+	float: left;
+	text-align: left;
+	color: white;
+}
+#menu
+{
+
+	background:  #1c2833;
+	margin-top: 0px;
+	padding: 0px;
+	text-align: right;
+}
+#menu ul
+{
+	margin: 0;
+	padding: 15px;
+}
+#menu li
+{
+	display: inline-block;
+}
+#menu li a
+{
+	color: white;
+	padding: 10px;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+#menu li a:hover
+{
+	color:  #e67e22;
+}
+#footer
+{
+	float: bottom;
+	background:   #d0d3d4;
+	height: 240px;
+}
+#p2
+{
+	margin: 0px;
+	height: 20px;
+	padding: 30px;
+	text-align: center;
+	text-transform: uppercase;
+	width: 100px;
+	margin-left: 500px;
+	font-size: 30px;
+}
+#p3
+{
+	text-align: center;
+	margin: 50px;
+	
+}
+#line1
+{
+	margin-top: -10px;
+	width: 100px;
+	margin-left: 560px;
+	color: orange;
+}
